@@ -1,0 +1,15 @@
+C:\Users\ustinovdv\Desktop\Domash\Zad_27\bin\Debug\net6.0\Zad_27.exe
+C:\Users\ustinovdv\Desktop\Domash\Zad_27\bin\Debug\net6.0\Zad_27.deps.json
+C:\Users\ustinovdv\Desktop\Domash\Zad_27\bin\Debug\net6.0\Zad_27.runtimeconfig.json
+C:\Users\ustinovdv\Desktop\Domash\Zad_27\bin\Debug\net6.0\Zad_27.dll
+C:\Users\ustinovdv\Desktop\Domash\Zad_27\bin\Debug\net6.0\Zad_27.pdb
+C:\Users\ustinovdv\Desktop\Domash\Zad_27\obj\Debug\net6.0\Zad_27.csproj.AssemblyReference.cache
+C:\Users\ustinovdv\Desktop\Domash\Zad_27\obj\Debug\net6.0\Zad_27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ustinovdv\Desktop\Domash\Zad_27\obj\Debug\net6.0\Zad_27.AssemblyInfoInputs.cache
+C:\Users\ustinovdv\Desktop\Domash\Zad_27\obj\Debug\net6.0\Zad_27.AssemblyInfo.cs
+C:\Users\ustinovdv\Desktop\Domash\Zad_27\obj\Debug\net6.0\Zad_27.csproj.CoreCompileInputs.cache
+C:\Users\ustinovdv\Desktop\Domash\Zad_27\obj\Debug\net6.0\Zad_27.dll
+C:\Users\ustinovdv\Desktop\Domash\Zad_27\obj\Debug\net6.0\refint\Zad_27.dll
+C:\Users\ustinovdv\Desktop\Domash\Zad_27\obj\Debug\net6.0\Zad_27.pdb
+C:\Users\ustinovdv\Desktop\Domash\Zad_27\obj\Debug\net6.0\Zad_27.genruntimeconfig.cache
+C:\Users\ustinovdv\Desktop\Domash\Zad_27\obj\Debug\net6.0\ref\Zad_27.dll
