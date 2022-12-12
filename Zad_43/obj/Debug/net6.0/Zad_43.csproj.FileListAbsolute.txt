@@ -1,0 +1,15 @@
+C:\Users\ustinovdv\Desktop\Domash\Zad_43\bin\Debug\net6.0\Zad_43.exe
+C:\Users\ustinovdv\Desktop\Domash\Zad_43\bin\Debug\net6.0\Zad_43.deps.json
+C:\Users\ustinovdv\Desktop\Domash\Zad_43\bin\Debug\net6.0\Zad_43.runtimeconfig.json
+C:\Users\ustinovdv\Desktop\Domash\Zad_43\bin\Debug\net6.0\Zad_43.dll
+C:\Users\ustinovdv\Desktop\Domash\Zad_43\bin\Debug\net6.0\Zad_43.pdb
+C:\Users\ustinovdv\Desktop\Domash\Zad_43\obj\Debug\net6.0\Zad_43.csproj.AssemblyReference.cache
+C:\Users\ustinovdv\Desktop\Domash\Zad_43\obj\Debug\net6.0\Zad_43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ustinovdv\Desktop\Domash\Zad_43\obj\Debug\net6.0\Zad_43.AssemblyInfoInputs.cache
+C:\Users\ustinovdv\Desktop\Domash\Zad_43\obj\Debug\net6.0\Zad_43.AssemblyInfo.cs
+C:\Users\ustinovdv\Desktop\Domash\Zad_43\obj\Debug\net6.0\Zad_43.csproj.CoreCompileInputs.cache
+C:\Users\ustinovdv\Desktop\Domash\Zad_43\obj\Debug\net6.0\Zad_43.dll
+C:\Users\ustinovdv\Desktop\Domash\Zad_43\obj\Debug\net6.0\refint\Zad_43.dll
+C:\Users\ustinovdv\Desktop\Domash\Zad_43\obj\Debug\net6.0\Zad_43.pdb
+C:\Users\ustinovdv\Desktop\Domash\Zad_43\obj\Debug\net6.0\Zad_43.genruntimeconfig.cache
+C:\Users\ustinovdv\Desktop\Domash\Zad_43\obj\Debug\net6.0\ref\Zad_43.dll
