@@ -15,3 +15,13 @@ void SecondArray(string[] array1, string[] array2) //Если строка уд�
         }
     }
 }
+void PrintArray(string[] array) // возвращаем результат
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"{array[i]} ");
+    }
+    Console.WriteLine();
+}
+SecondArray(array1, array2);
+PrintArray(array2);
